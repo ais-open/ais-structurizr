@@ -1,0 +1,46 @@
+{
+    "name": "General",
+    "description": "Description",
+    "elements": [
+        {
+            "tag": "softwareSystem",
+            "background": "#ffffff"
+        },
+        {
+            "tag": "Salesforce",
+            "icon": "https://raw.githubusercontent.com/ais-open/ais-structurizr/main/icons/misc/Salesforce/salesforce-logo.jpg"
+        },
+        {
+            "tag": "Microsoft Teams",
+            "icon": "https://raw.githubusercontent.com/ais-open/ais-structurizr/main/icons/microsoft/Microsoft365Icons/Microsoft_Teams_96x96.png"
+        },
+        {
+            "tag": "Dataverse",
+            "icon": "https://raw.githubusercontent.com/ais-open/ais-structurizr/main/icons/microsoft/PowerPlatformIcons/Dataverse_scalable.png"
+        },
+        {
+            "tag": "Microsoft",
+            "icon": "https://raw.githubusercontent.com/ais-open/ais-structurizr/main/icons/microsoft/Microsoft-Logo.png"
+        },
+        {
+            "tag": "Generic Webpage",
+            "icon": "https://raw.githubusercontent.com/ais-open/ais-structurizr/main/icons/misc/webpage.png"
+        },
+        {
+            "tag": "Power Automate",
+            "icon": "https://raw.githubusercontent.com/ais-open/ais-structurizr/main/icons/microsoft/PowerPlatformIcons/PowerAutomate_scalable.png"
+        },
+        {
+            "tag": "Power Apps",
+            "icon": "https://raw.githubusercontent.com/ais-open/ais-structurizr/main/icons/microsoft/PowerPlatformIcons/PowerApps_scalable.png"
+        },
+        {
+            "tag": "HubSpot",
+            "icon": "https://raw.githubusercontent.com/ais-open/ais-structurizr/main/icons/misc/hubspot-logo.png"
+        },
+        {
+            "tag": "Power BI",
+            "icon": "https://raw.githubusercontent.com/ais-open/ais-structurizr/main/icons/microsoft/PowerPlatformIcons/PowerBI_scalable.png"
+        }
+    ]
+}

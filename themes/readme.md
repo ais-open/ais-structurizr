@@ -1,0 +1,1 @@
+Theme files can go in this folder.
