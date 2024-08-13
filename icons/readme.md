@@ -1,0 +1,1 @@
+Icons can be placed in this folder. Steps will need taken in the future to decide on naming and structure.
