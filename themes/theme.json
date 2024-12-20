@@ -51,6 +51,10 @@
             "icon": "https://raw.githubusercontent.com/ais-open/ais-structurizr/main/icons/microsoft/PowerPlatformIcons/Custom-API.png"
         },
         {
+            "tag": "Copilot Studio",
+            "icon": "https://raw.githubusercontent.com/ais-open/ais-structurizr/main/icons/microsoft/PowerPlatformIcons/CopilotStudio_scalable.svg"
+        },
+        {
             "tag": "Custom Connector",
             "icon": "https://raw.githubusercontent.com/ais-open/ais-structurizr/main/icons/microsoft/PowerPlatformIcons/Custom-Connector.png"
         },
